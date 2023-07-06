@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=473C8B&height=120&section=footer"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5347F7&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Guilherme+Rigaud;I'm+20+years+old;I'm+a+Back-end+Development+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5347F7&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Guilherme+Rigaud;I'm+20+years+old;I'm+a+Web+Developer!" alt="Typing SVG" /></a>
 
 <div align="center">
   <a href="https://github.com/Gui-Rigaud/github-readme-stats">
