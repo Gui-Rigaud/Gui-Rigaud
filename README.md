@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Gui-Rigaud/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=Gui-Rigaud&theme=dracula" />
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=Gui-Rigaud&theme=dracula&card_width=420" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gui-Rigaud&langs_count=8&card_width=420&theme=dracula" />
