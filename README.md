@@ -7,7 +7,7 @@
   <img height=220 align="center" src="https://readmestats.999857.xyz/api?username=Gui-Rigaud&theme=dracula&card_width=320" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=220 align="center" src="https://readmestats.999857.xyz/api/top-langs?username=Gui-Rigaud&langs_count=8&card_width=420&theme=dracula" />
+    <img height=220 align="center" src="https://readmestats.999857.xyz/api/top-langs?username=Gui-Rigaud&layout=compact&card_width=220&theme=dracula" />
   </a>
 </div>
 
@@ -25,8 +25,6 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
 </div>
 
 <hr/>
